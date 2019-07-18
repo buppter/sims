@@ -6,7 +6,7 @@ import (
 )
 
 /*
-sim -- Student information manager system
+sims -- SStudent Information Management System
 
 1. 添加学员信息
 2. 编辑学员信息
